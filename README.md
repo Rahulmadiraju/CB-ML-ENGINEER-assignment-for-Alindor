@@ -27,8 +27,8 @@ This project aims to provide a comprehensive solution for sentiment analysis and
 
 1. Clone the repository:
            
-           git clone https://github.com/yourusername/audio-sentiment-analysis.git
-           cd audio-sentiment-analysis
+           git clone https://github.com/Rahulmadiraju/CB-ML-ENGINEER-assignment-for-Alindor.git
+           cd CB-ML-ENGINEER-assignment-for-Alindor
 2. Install required Python packages:
 
             pip install -r requirements.txt
